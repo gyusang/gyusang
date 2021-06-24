@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning CSE in SNU
+- 📫 How to reach me: sanggyu AT naver DOT com
+
 <!--
 **gyusang/gyusang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
