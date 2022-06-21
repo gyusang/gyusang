@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Computer Science and Engineering at [Seoul National University](https://snu.ac.kr/)
-- 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI researcher/developer/director.
-- 🔭 I'm currently working in [Seoul National University Hospital](http://snuh.org/) as a researcher/developer.
 - 👯 I’m interested in Computer Vision, Deep Learning, and computers!
 - 📫 How to reach me: sanggyu AT naver DOT com
 
