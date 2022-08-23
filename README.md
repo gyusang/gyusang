@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science and Engineering at [Seoul National University](https://snu.ac.kr/)
 - 🔭 I’m currently working at [FriendliAI](https://friendli.ai/) as an Intern.
 - 👯 I’m interested in Computer Vision, Deep Learning, and computers!
-- 📫 How to reach me: sanggyu AT naver DOT com
+- 📫 How to reach me: sanggyu523 AT naver DOT com
 
 <!--
 **gyusang/gyusang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
