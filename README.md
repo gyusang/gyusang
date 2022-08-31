@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Computer Science and Engineering at [Seoul National University](https://snu.ac.kr/)
-- 🔭 I’m currently working at [FriendliAI](https://friendli.ai/) as an Intern.
 - 👯 I’m interested in Computer Vision, Deep Learning, and computers!
 - 📫 How to reach me: sanggyu523 AT naver DOT com
 
