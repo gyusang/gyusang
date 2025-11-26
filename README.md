@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Computer Science and Engineering at [Seoul National University](https://snu.ac.kr/)
-- 👯 I’m interested in Computer Vision, Deep Learning, and computers!
+- 🌱 I’m a final year student studying Computer Science and Engineering at [Seoul National University](https://snu.ac.kr/)
+- 👯 I’m interested in Programming Languages and Constraint Solvers!
+- I will be joining Jane Street as a Software Engineer starting Summer of 2026.
 - 📫 How to reach me: sanggyu523 AT naver DOT com
+- My website: [sanggyu.com](https://sanggyu.com)
 
 <!--
 **gyusang/gyusang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
