@@ -2,7 +2,7 @@
 
 - 🌱 I received B.S. in Computer Science and Engineering at [Seoul National University](https://snu.ac.kr/)
 - 👯 I’m interested in Programming Languages and Constraint Solvers!
-- I am a Software Engineer at Jane Street.
+- I am a Software Engineer at [Jane Street](https://janestreet.com).
 - 📫 How to reach me: sanggyu523 AT naver DOT com
 - My website: [sanggyu.com](https://sanggyu.com)
 
