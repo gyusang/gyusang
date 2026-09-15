@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m a final year student studying Computer Science and Engineering at [Seoul National University](https://snu.ac.kr/)
+- 🌱 I received B.S. in Computer Science and Engineering at [Seoul National University](https://snu.ac.kr/)
 - 👯 I’m interested in Programming Languages and Constraint Solvers!
-- I will be joining Jane Street as a Software Engineer starting Summer of 2026.
+- I am a Software Engineer at Jane Street.
 - 📫 How to reach me: sanggyu523 AT naver DOT com
 - My website: [sanggyu.com](https://sanggyu.com)
 
